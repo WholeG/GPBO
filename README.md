@@ -1,7 +1,7 @@
 ##introduction
 gaussian process bayesian optimization visualization.ipynb
 
-##code 
+##code descrition
 
 * use less samples to find the maximum value in test function(Branin Rosenbrock)
 * generate 20 points in x y dimension
@@ -18,17 +18,18 @@ gaussian process bayesian optimization visualization.ipynb
 
 ![avatar](https://github.com/WholeG/GPBO/raw/main/pictures/rosenbrock_max_0.jpg)
 
-*the green points are train set
-*the gray plane is the true function branin, use 400 points by meshgrid()
-*the red plane is the prediction of GP on design_domain(all data - train set)
-*the red vertical line and the blue star point tell us the next point that should be added
+- the green points are train set
+- the gray plane is the true function branin, use 400 points by meshgrid()
+- the red plane is the prediction of GP on design_domain(all data train set)
+- the red vertical line and the blue star point tell us the next point that should be added
 
 
 ![avatar](https://github.com/WholeG/GPBO/raw/main/pictures/rosenbrock_max_11.jpg)
-* after some iterations , the predction is close to the true function 
+
+- after some iterations , the predction is close to the true function 
 
 ![avatar](https://github.com/WholeG/GPBO/raw/main/pictures/max_round.jpg)
-*the maximum of acquistion function, actually, iteration8 is the best.
+- the maximum of acquistion function, actually, iteration8 is the best.
 ## About author
 
 ```javascript
