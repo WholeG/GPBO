@@ -14,6 +14,7 @@ gaussian process bayesian optimization visualization.ipynb
 * if in some epochs, the good point change little, stop iteration
 
 
+
 ##  you can choose Branin or Rosenbrock by select the cell.
 
 ![avatar](https://github.com/WholeG/GPBO/raw/main/pictures/rosenbrock_max_0.jpg)
@@ -35,7 +36,9 @@ gaussian process bayesian optimization visualization.ipynb
 ![avatar](https://github.com/WholeG/GPBO/raw/main/pictures_rosenbrock/rosen.jpg)
 - the maximum of acquistion function, actually, iteration8 is the best.
 
-
+## draw_branin_function.ipynb ##
+![avatar](https://github.com/WholeG/GPBO/raw/main/pictures_rosenbrock/rosenbrock.jpg)
+- how to draw the funciton by meshgrid
 ## About author
 
 ```javascript
