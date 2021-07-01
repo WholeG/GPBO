@@ -1,7 +1,7 @@
-##introduction
+# introduction #
 gaussian process bayesian optimization visualization.ipynb
 
-##code descrition
+## code descrition ##
 
 * use less samples to find the maximum value in test function(Branin Rosenbrock)
 * generate 20 points in x y dimension
