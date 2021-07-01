@@ -17,7 +17,9 @@ gaussian process bayesian optimization visualization.ipynb
 ##  you can choose Branin or Rosenbrock by select the cell.
 
 ![avatar](https://github.com/WholeG/GPBO/raw/main/pictures/rosenbrock_max_0.jpg)
+![avatar](https://github.com/WholeG/GPBO/raw/main/pictures_rosenbrock/rosenbrock_max_1.jpg)
 
+- the first pic is Branin and the second pic is Rosenbrock function
 - the green points are train set
 - the gray plane is the true function branin, use 400 points by meshgrid()
 - the red plane is the prediction of GP on design_domain(all data train set)
@@ -25,11 +27,15 @@ gaussian process bayesian optimization visualization.ipynb
 
 
 ![avatar](https://github.com/WholeG/GPBO/raw/main/pictures/rosenbrock_max_11.jpg)
+![avatar](https://github.com/WholeG/GPBO/raw/main/pictures_rosenbrock/rosenbrock_max_14.jpg)
 
 - after some iterations , the predction is close to the true function 
 
 ![avatar](https://github.com/WholeG/GPBO/raw/main/pictures/max_round.jpg)
+![avatar](https://github.com/WholeG/GPBO/raw/main/pictures_rosenbrock/rosen.jpg)
 - the maximum of acquistion function, actually, iteration8 is the best.
+
+
 ## About author
 
 ```javascript
