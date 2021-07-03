@@ -1,6 +1,6 @@
 # introduction #
 gaussian process bayesian optimization visualization.ipynb
-
+![avatar](https://github.com/WholeG/GPBO/raw/main/pictures/suequen_12.jpg) 
 ## code descrition ##
 
 * use less samples to find the maximum value in test function(Branin Rosenbrock)
